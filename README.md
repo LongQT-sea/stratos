@@ -27,6 +27,21 @@
 
 </div>
 
+> [!IMPORTANT]
+> ## This repository is archived
+>
+> As of 2026-09-02, development of Stratos no longer happens in this repository.
+> It is read-only: no further releases, fixes, or security patches will land here.
+> The last release published here is [`v0.4.1`](https://github.com/menlocloud/stratos/releases/tag/v0.4.1).
+>
+> **Everything published here remains under the [Apache License 2.0](LICENSE).**
+> Archiving does not revoke that license. Every commit and release already published
+> stays free to use, modify, fork, and redistribute under Apache 2.0 — permanently.
+> Only future development moves elsewhere.
+>
+> **Maintenance continues at [hiento09/openstack-dashboard](https://github.com/hiento09/openstack-dashboard).**
+> Issues and discussions here are closed; please open them there instead.
+
 <p align="center">
   <img src="public/assets/billing_1.png" alt="Stratos operator console — organization billing dashboard" width="860" />
 </p>
